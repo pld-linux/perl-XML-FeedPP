@@ -8,7 +8,7 @@
 Summary:	XML::FeedPP -- Parse/write/merge/edit RSS/RDF/Atom syndication feeds
 Name:		perl-XML-FeedPP
 Version:	0.43
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/XML/%{pdir}-%{pnam}-%{version}.tar.gz
