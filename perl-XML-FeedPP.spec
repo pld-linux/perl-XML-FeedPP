@@ -4,7 +4,6 @@
 #
 %define		pdir	XML
 %define		pnam	FeedPP
-%include	/usr/lib/rpm/macros.perl
 Summary:	XML::FeedPP -- Parse/write/merge/edit RSS/RDF/Atom syndication feeds
 Name:		perl-XML-FeedPP
 Version:	0.43
